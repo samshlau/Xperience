@@ -1,2 +1,4 @@
-# Xperience
-Google Doc: https://docs.google.com/document/d/15A4YIN1YJfM6RWQsbndMPTncYiJnmfqdn2Aaompx_MA/edit?usp=sharing
+# Xperience Coding and Future Camps (Kartik)
+Google Doc: https://docs.google.com/document/d/1JE17xElaf3lpfxpcZNAroMwNZNicV3cofIhrFU3NP0A/edit
+
+To-Do List (in google doc)
