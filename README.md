@@ -11,7 +11,10 @@ AI Integration: Use ChatGPT to help with research and writing out generic legal 
 Step 3: Initial Task List and Timeline
 
 Task List/Timeline: 
+
 Obtain a federal tax ID number (FEIN) (https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
+
+Register to operate in Illinois: https://mytax.illinois.gov/_/#1 
 
 Prepare LLC operating agreement for our board of directors to follow (see if Sam's dad can help because he's a lawyer)
 
