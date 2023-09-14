@@ -14,13 +14,13 @@ Task List/Timeline:
 
 Obtain a federal tax ID number (FEIN) (https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) (Completed 9/6)
 
+File IRS Form 1023-EZ (VERY LONG) (https://www.irs.gov/forms-pubs/about-form-1023)
+
 Register to operate in Illinois: https://mytax.illinois.gov/_/#1 (Start 9/6) (EDIT, WE NEED 501c3 letter before we can do this) (Finished ______)
 
-Prepare LLC operating agreement for our board of directors to follow (see if Sam's dad can help because he's a lawyer)
+Prepare operating agreement for our board of directors to follow (see if Sam's dad can help because he's a lawyer)
 
 File Articles of ORGANIZATION https://apps.ilsos.gov/llcarticles/index.jsp 
-
-File IRS Form 1023 (VERY LONG) (https://www.irs.gov/forms-pubs/about-form-1023)
 
 File Illinois Charitable Organization Registration Forms (https://illinoisattorneygeneral.gov/Consumer-Protection/Charities/Building-Better-Charities/Charity-Registration/)
 
