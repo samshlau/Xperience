@@ -15,7 +15,7 @@ Task List/Timeline:
 Obtain a federal tax ID number (FEIN) (https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) (Completed 9/6)
 
 
-SWITCHED TRACK TO COMPLETING BUSINESS PLAN. (9/29) Currently working on Business plan. 
+SWITCHED TRACK TO COMPLETING BUSINESS PLAN. (9/29) Currently working on Business plan.  (10/11 UPDATE: I need action from Kartik/Aaryan/Mr.Lueken on business plan.)
 
 
 
