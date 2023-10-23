@@ -18,8 +18,8 @@ Obtain a federal tax ID number (FEIN) (https://www.irs.gov/businesses/small-busi
 SWITCHED TRACK TO COMPLETING BUSINESS PLAN. (9/29) Currently working on Business plan.  (10/11 UPDATE: I need action from Kartik/Aaryan/Mr.Lueken on business plan.)
 
 
-
 File IRS Form 1023-EZ (VERY LONG) (https://www.irs.gov/forms-pubs/about-form-1023)
+Once again, we come to the same issue. In order to file aricles of organization, we need LLC in our name. I can't find a workaround to this. 
 
 Register to operate in Illinois: https://mytax.illinois.gov/_/#1 (Start 9/6) (EDIT, WE NEED 501c3 letter before we can do this) (Finished ______)
 
